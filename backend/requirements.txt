@@ -1,0 +1,12 @@
+langgraph>=0.0.40
+langchain>=0.1.0
+langchain-core>=0.1.0
+speechrecognition>=3.10.0
+pyttsx3>=2.90
+flask>=2.3.0
+flask-cors>=4.0.0
+pillow>=10.0.0
+sqlite3  # Built-in with Python
+# Optional for enhanced vision capabilities:
+# openai>=1.0.0
+# langchain-openai>=0.1.0
